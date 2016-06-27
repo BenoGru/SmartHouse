@@ -1,4 +1,4 @@
 # SmartHouse
 Smart house for hobby
 -----------------------
-Smart house with arduino and IoT ESP2866 and other interesting electonic components :)
+Smart house with arduino, ESP2866 and other interesting electonic components :)
